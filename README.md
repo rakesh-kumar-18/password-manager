@@ -7,4 +7,10 @@
 - If you leave any entry blank and try to add that to the txt file, then a pop up will show up with a message to enter all the details.
 - After enter all the details when you click on add button, then a confirmation pop up will show up.
 
+# update
+- Now you don't have to go through data file for password for the website.
+- Adding search functionality to search for website and get mail and password.
+- Create a .json file for keep the input data instead of simple .txt file.
+- It is super easy to work with json file.
+
 KEEP ALL YOUR PASSWORDS SAFE.
